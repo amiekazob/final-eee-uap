@@ -124,9 +124,10 @@ export const facultyData: FacultyMember = {
     }
   ],
   "professionalMemberships": [
-    "Member, IEEE (2024)",
+    "Member, IEEE",
     "Member, Japan Society of Mechanical Engineers (2022-2023)",
     "Member, Green Energy Forum, Pondicherry (Central Govt.) University (2016-2017)"
+    "Deputy Director, Institute for Research Innovation and Development(IRID), University of Asia Pacific"
   ],
   "recentPublications": [
     {
