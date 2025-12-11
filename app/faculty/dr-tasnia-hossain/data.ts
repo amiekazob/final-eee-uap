@@ -94,7 +94,7 @@ export const facultyData: FacultyMember = {
     "Network Routing Protocols",
     "Semiconductor Device Physics",
     "Applied Physics",
-    "Electronics and Communication Engineering"
+    "Electronics and Communication  Engineering"
   ],
   "academicExperience": [
     {
